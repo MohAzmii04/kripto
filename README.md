@@ -86,3 +86,6 @@ Jadi, hasil enkripsi dari ketiga plaintext dengan Playfair Cipher dan kunci "TEK
 1. **FPKALCAFYXIILBPTTI**
 2. **PLVQKAITIRNGLTHYITLPLTMU**
 3. **QVQAFMKATIGHYPLBLTNG LTAFYU**
+
+   ![Cuplikan layar 2024-10-15 085737](https://github.com/user-attachments/assets/e73cdd4d-e22e-4eec-bc86-89f0c236d78d)
+
